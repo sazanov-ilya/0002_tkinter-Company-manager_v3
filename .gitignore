@@ -1,0 +1,7 @@
+# вложеные каталоги .idea
+_readme/
+.idea/
+__pycache__/
+db/
+
+
